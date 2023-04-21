@@ -121,12 +121,12 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
-![valid](https://user-images.githubusercontent.com/118350045/233540074-b8b6ebf0-cc2f-48d9-a01d-0690bf01acfc.png)
-
-
-## HTML VALIDATOR
 
 ![out](https://user-images.githubusercontent.com/118350045/233540305-0837f756-9668-4f0e-bdcc-0ca63d0ba10e.png)
+
+## HTML VALIDATOR
+![valid](https://user-images.githubusercontent.com/118350045/233540074-b8b6ebf0-cc2f-48d9-a01d-0690bf01acfc.png)
+
 
 
 ## RESULT
